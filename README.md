@@ -6,7 +6,7 @@ The app takes in an ingredient name along with the quantity and cost. It then di
 
 The purpose was to learn something new and challenging myself to do something with a new software. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/p4S1lyRz-h4)
 
 # Web Pages
 
